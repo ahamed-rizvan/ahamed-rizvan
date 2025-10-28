@@ -35,15 +35,10 @@ Currently part of **Finesse Global (CyberHub – Dubai)**, focusing on:
 - Log Correlation, Rule Tuning & False-Positive Reduction
 - Incident Detection, Containment & Reporting
 
-#### ⚙️ SIEM / XDR Platforms
+#### ⚙️ SIEM / XDR / VA Platforms
 - **Microsoft Sentinel**, **AlienVault USM Anywhere**, **Sumo Logic**, **LogPoint**, **Wazuh**
 - **Sophos XDR**, **Microsoft Defender XDR**
-
-#### 🧩 Security Tools & Tech
-- **Nessus Expert** for Vulnerability Scanning  
-- **NxLog / Syslog** for Log Forwarding    
-- **Python / PowerShell / Bash** for automation and enrichment  
-- **Sandbox Analysis** for malware behavior assessment
+- **Nessus Expert** for Vulnerability Scanning
 
 ---
 
@@ -69,15 +64,6 @@ Currently part of **Finesse Global (CyberHub – Dubai)**, focusing on:
 - **B.Tech – Information Technology**, *Anna University (India)*  
 - **Professional Diploma in Cyber Investigations & Laws (PDCIL)**, *Hindustan University (India)*
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahamed-rizvan&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamed-rizvan&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 🌍 Connect
 📧 **ahamedrizvan7@gmail.com**  
