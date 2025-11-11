@@ -38,7 +38,7 @@ Currently part of **Finesse Global (CyberHub – Dubai)**, focusing on:
 #### ⚙️ SIEM / XDR / VA Platforms
 - **Microsoft Sentinel**, **AlienVault USM Anywhere**, **Sumo Logic**, **LogPoint**, **Wazuh**
 - **Sophos XDR**, **Microsoft Defender XDR**
-- **Nessus Expert** for Vulnerability Scanning
+- **Tenable Nessus** for Vulnerability Scanning
 
 ---
 
